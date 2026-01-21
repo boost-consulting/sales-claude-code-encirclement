@@ -13,6 +13,8 @@
 | 「この案件どう進める？」「接戦？」 | situation-analyzer |
 | 「どう聞けばいい？」「質問の仕方」 | question-advisor |
 | 「なぜ負けた？」「失注分析」 | loss-reviewer |
+| 「価値を感じてもらえない」「関係を深めたい」 | value-advisor |
+| 「提案がズレる」「逆転したい」「要件整理」 | proposal-designer |
 | シンプルな質問 | rulesファイルから直接回答 |
 
 ## 処理フロー
@@ -32,6 +34,8 @@
 - `questioning-techniques.md` - 質問テクニック・4フェーズ・課題解決質問
 - `decision-timing.md` - 決定タイミング・本命vs当て馬
 - `customer-gaps.md` - 4つの不満・4つの力・ガッカリ営業
+- `value-proposition.md` - 価値訴求力・四象限・5つのC・ジョハリの窓
+- `proposal-logic.md` - 提案ロジック構築力・要件整理・対立ロジック
 
 ## 出力フォーマット
 
